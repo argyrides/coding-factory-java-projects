@@ -1,0 +1,18 @@
+# compiled class files
+*.class
+
+#log files
+*.log
+
+#package files
+*.jar
+*.war
+*.zip
+*.rar
+*.tar.gz
+
+# Idea files
+/.idea/
+
+
+
